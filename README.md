@@ -10,10 +10,10 @@ This is a PHP SDK to easily interact with the [SMS8.io](https://app.sms8.io) API
 1. **Clone this repository or download the PHP file:**
 
 ```bash
-git clone https://github.com/yourusername/sms8-php-api.git
+git clone https://github.com/Diluna123/SMS_with_YourDevice.git
 Include the SDK in your PHP project:
 
-require_once 'sms8.php'; // Adjust the path accordingly
+require_once 'sms_modal.php'; // Adjust the path accordingly
 ```
 ## 🔑 Configuration
 Open the file and replace the API key placeholder:
